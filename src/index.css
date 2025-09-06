@@ -1,0 +1,27 @@
+:root {
+  font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.title{
+  color: blue;
+  text-align: center;
+}
+
+.card{
+  width: 260px;
+  padding: 10px;
+  border-radius: 12px;
+  border: 1px solid lightgray;
+  margin: 10px;
+}
+
+.card img{
+  width: 100%;
+  border-radius: 12px;
+}
